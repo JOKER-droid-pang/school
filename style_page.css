@@ -1,0 +1,18 @@
+header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+header p1{
+    font-size: larger;
+}
+header nav a{
+    margin: 10px;
+}
+footer{
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}

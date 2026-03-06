@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+nav a{
+    color: rgb(29, 29, 29);
+    margin: 10px;
+    text-decoration: none;
+}
+nav a:hover{
+    color:blue;
+    text-decoration:underline;
+}
+footer p{
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
